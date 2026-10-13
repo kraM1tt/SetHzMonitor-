@@ -1,4 +1,4 @@
-# SetHzMonitor 2.1 is here!
+# SetHzMonitor 2.2 is here!
 
 <br>
 <p align="center">
