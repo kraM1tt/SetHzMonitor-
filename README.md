@@ -7,11 +7,11 @@
 
 ## Overview
 
-**SetHzMonitor 2.1** is a lightweight Windows utility that automatically adjusts your monitor's refresh rate based on which processes are running, using mappings defined in a simple configuration file.
+**SetHzMonitor 2.2** is a lightweight Windows utility that automatically adjusts your monitor's refresh rate based on which processes are running, using mappings defined in a simple configuration file.
 
 [![SetHzMonitor 2.1 Demo](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=g5G5Y-TQVMs)
 <p align="center">
- Watch SetHzMonitor 2.1 in action on YouTube
+ Watch SetHzMonitor 2.2 in action on YouTube
 </p>
 
 ## Features
